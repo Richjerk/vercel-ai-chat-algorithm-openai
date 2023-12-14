@@ -1,0 +1,8 @@
+{
+    "app_id": "township-business-algorithm-bot-odjma",
+    "config_version": 20210101,
+    "name": "Township-Business-Algorithm-Bot",
+    "location": "US-VA",
+    "provider_region": "aws-us-east-1",
+    "deployment_model": "LOCAL"
+}
